@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480649239781",
+    "project_id": "car-quest-app",
+    "storage_bucket": "car-quest-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480649239781:android:43e748486f76f1f311880c",
+        "android_client_info": {
+          "package_name": "com.example.carquest_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6R9ymMtH9nr79I7TrCoOq4JeBKj8NVpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
